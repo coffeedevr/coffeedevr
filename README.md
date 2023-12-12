@@ -1,8 +1,8 @@
 ## Hi there! 👋
-My name is Dan and I aspire to create good websites!
+I aspire to create good websites!
 
 - 👋 I’m currently open for work
-- 💼 My passion is Web Development, and I mainly know MERN stack
+- 💼 My passion is Web Design and development, and I mainly know MERN stack
 - 💬 I taught computer subject on high school students for 3 years!
 
 <br/>
