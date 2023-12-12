@@ -7,18 +7,6 @@ My name is Dan and I aspire to create good websites!
 
 <br/>
 
-## Contact Info
-<a href="https://www.linkedin.com/in/dan-rutherford-flores-6096a227b/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-   <a href="mailto:coffeedevr@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  
-  <a href="https://coffeedevr.github.io/portfolio/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>  
-<br/>  
-
 <br/>
 
 ## Tech Stack & Tools
