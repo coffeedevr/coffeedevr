@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I aspire to create good websites!
 
-- 👋 I’m currently open for work
+- 👋 Full-Stack Dev
 - 💼 My passion is Web Design and development, and I mainly know MERN stack
 - 💬 I taught computer subject on high school students for 3 years!
 
